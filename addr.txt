@@ -1,3 +1,3 @@
 # ADBGuard 地址牌：手机读 url= 这一行
-url=https://singles-link-pad-computation.trycloudflare.com
-updated=2026-11-16 14:05
+url=https://handle-reflection-mix-everywhere.trycloudflare.com
+updated=2026-11-16 16:10
