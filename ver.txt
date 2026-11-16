@@ -1,5 +1,5 @@
 # ADBGuard 版本牌：手机读 versionCode= 这行比对
-versionCode=32
-versionName=5.0
+versionCode=33
+versionName=5.1
 apk=https://ghfast.top/https://raw.githubusercontent.com/chengyirui/adbguard-addr/main/guard.apk
-updated=2026-11-16 18:10
+updated=2026-11-16 18:25
