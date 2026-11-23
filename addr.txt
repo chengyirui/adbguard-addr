@@ -1,3 +1,3 @@
 # ADBGuard 地址牌：手机读 url= 这一行
-url=https://pmid-intl-circuit-cat.trycloudflare.com
-updated=2026-11-23 11:50
+url=https://computational-beside-exams-bar.trycloudflare.com
+updated=2026-11-23 12:10
