@@ -1,3 +1,3 @@
 # ADBGuard 地址牌：手机读 url= 这一行
-url=https://fact-thorough-has-sol.trycloudflare.com
-updated=2026-11-24 11:20
+url=https://cross-somebody-base-trainer.trycloudflare.com
+updated=2026-11-25 15:14
