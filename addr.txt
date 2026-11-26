@@ -1,3 +1,3 @@
 # ADBGuard 地址牌：手机读 url= 这一行
-url=https://playback-symantec-render-holder.trycloudflare.com
-updated=2026-11-26 21:22
+url=https://addressed-logging-software-solve.trycloudflare.com
+updated=2026-11-27 03:54
